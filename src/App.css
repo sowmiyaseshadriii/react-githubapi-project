@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: lightblue;
+  height:100vh;
+ }
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  color: white;
+}
+
+.App-title{
+  padding: 10px;
+}
+
+.form-layout{
+  padding: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.user_repos{
+  text-align: left;
+}
+
+button{
+  background-color: darkgrey
+}
+
+button:hover{
+  background-color: lightgray;
+}
